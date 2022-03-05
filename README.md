@@ -1,7 +1,7 @@
 ### 👋 Hi there
 - 🏫 I'm a Computer Science student at [@IFGoiano](https://www.ifgoiano.edu.br/home/)
-- 💻 Full-Stack | Software engineer (In progress)
-- 👀 I’m interested in Web development
+- 💻 Full-Stack | Software engineer (In progress).
+- 👀 I’m interested in Web development.
 - 🌱 I’m currently learning JavaScript, React, Node.js and any more!
 - 📫 How to reach me [My personal e-mail](amanda.araujod3v@gmail.com)
 <br/>
